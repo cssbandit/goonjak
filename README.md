@@ -1,6 +1,6 @@
 # GoonJak 🍟
 
-**The Ultimate Recruitment Token for Wrecked Degens**
+**The Ultimate Token for Wrecked Degens**
 
 GoonJak is a deranged fast-food superhero offering jobs to crypto losers who lost everything but still won't log off. This isn't a meme. It's a lifestyle correction.
 
