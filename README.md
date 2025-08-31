@@ -44,9 +44,9 @@ Visit the live site: [GoonJak.com](https://goonjak.netlify.app)
 
 ## 🎨 Contract Address
 
-**GoonJak Token:** `8utwRDFeQSCboTGE6gz24mF3KGqZMrF4PJEw5p9upump`
+**GoonJak Token:** `96eyUKkbZexLfZ3Sod2W1U4rYZC1jo8jvy5kgLuqpump`
 
-Buy on [Pump.fun](https://pump.fun/coin/8utwRDFeQSCboTGE6gz24mF3KGqZMrF4PJEw5p9upump)
+Buy on [Pump.fun](https://pump.fun/coin/96eyUKkbZexLfZ3Sod2W1U4rYZC1jo8jvy5kgLuqpump)
 
 ## ⚠️ Disclaimer
 
